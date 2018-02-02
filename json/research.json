@@ -1,0 +1,464 @@
+{
+  "address": [
+    "Postdoc @ Ufficio 309,",
+    "<a href=\"http://dei.unipd.it\">Department of Information Engineering</a>,",
+    "<a href=\"https://www.unipd.it\">University of Padova</a>,",
+    "Via Gradenigo 6/b,",
+    "35131 Padova, Italy"
+  ],
+  "bio": "Work in Progress",
+  "topics": [
+    {
+      "title":    "Spatiotemporal and Stochastic models for endocrine cells",
+      "abstract": ""
+    },
+    {
+      "title":    "Ecoepidemiological mathematical models",
+      "abstract": ""
+    },
+    {
+      "title":    "Wastewater bioremediation",
+      "abstract": ""
+    },
+    {
+      "title":    "Numerical analysis",
+      "abstract": ""
+    }
+  ],
+  "types": ["Journal Papers", "Proceedings", "Book Chapters", "Submitted Preprints"],
+  "publications": [
+    {
+      "title":    "Modelling the direct and indirect effects of pollutants on the survival of fish in water bodies",
+      "authors":  "P. K. Tiwari, I. M. Bulai, A. K. Misra and E. Venturino",
+      "journal":  "Journal of Biological Systems",
+      "year":     2017,
+      "link":     "10.1142/S0218339017500243",
+      "topic":    "Wastewater bioremediation",
+      "type":     "Journal Papers",
+      "_date":    "17.09.26",
+      "abstract": [
+        ""
+      ]
+    },
+    {
+      "title":    "Shape effects on herd behaviour in ecological interacting population models",
+      "authors":  "I. M. Bulai, E. Venturino",
+      "journal":  "Mathematics and Computers in Simulation",
+      "year":     2017,
+      "link":     "10.1016/j.matcom.2017.04.009",
+      "topic":    "Ecoepidemiological mathematical models",
+      "type":     "Journal Papers",
+      "_date":    "17.05.10",
+      "abstract": [
+        ""
+      ]
+    },
+    {
+      "title":    "Two mathematical models for dissolved oxygen in a lake--CMMSE-16",
+      "authors":  "I. M. Bulai, E. Venturino",
+      "journal":  "Journal of Mathematical Chemistry",
+      "year":     2017,
+      "link":     "10.1007/s10910-016-0726-4",
+      "topic":    "Wastewater bioremediation",
+      "type":     "Journal Papers",
+      "_date":    "17.01.02",
+      "abstract": [
+        ""
+      ]
+    },
+    {
+      "title":    "The Beddington-De Angelis and the HTII product response functions: application to polluted ecosystems biodegradation",
+      "authors":  "I. M. Bulai, E. Venturino",
+      "journal":  "AIP Conference Proceedings",
+      "year":     2016,
+      "link":     "10.1063/1.4952176",
+      "topic":    "Wastewater bioremediation",
+      "type":     "Proceedings",
+      "_date":    "16.06.01",
+      "abstract": [
+        ""
+      ]
+    },
+    {
+      "title":    "Hierarchical bases preconditioner to enhance convergence of the CFIE with multiscale meshes",
+      "authors":  "M. Righero, I. M. Bulai, M. A. Francavilla, F. Vipiana, Mirko Bercigli, A. Mori, M. Bandinelli, G. Vecchi",
+      "journal":  "IEEE Antennas and Wireless Propagation Letters",
+      "year":     2016,
+      "link":     "10.1109/LAWP.2016.2542878",
+      "topic":    "Numerical analysis",
+      "type":     "Journal Papers",
+      "_date":    "16.03.16",
+      "abstract": [
+        ""
+      ]
+    },
+    {
+      "title":    "Biodegradation of organic pollutants in a water body",
+      "authors":  "I. M. Bulai, E. Venturino",
+      "journal":  "Journal of Mathematical Chemistry",
+      "year":     2016,
+      "link":     "10.1007/s10910-016-0603-1",
+      "topic":    "Wastewater bioremediation",
+      "type":     "Journal Papers",
+      "_date":    "16.02.03",
+      "abstract": [
+        ""
+      ]
+    },
+    {
+      "title":    "Gabor Frames of Gaussian Beams for the Schrödinger equation",
+      "authors":  "M. Berra, I. M. Bulai, E. Cordero and F. Nicola",
+      "journal":  "Applied and Computational Harmonic Analysis",
+      "year":     2015,
+      "link":     "10.1016/j.acha.2015.11.001",
+      "topic":    "Numerical analysis",
+      "type":     "Journal Papers",
+      "_date":    "15.11.10",
+      "abstract": [
+        ""
+      ]
+    },
+    {
+      "title":    "Comparing disease-control policies for interacting wild populations",
+      "authors":  "I. M. Bulai, R. Cavoretto, B. Chialva, D. Duma, E. Venturino",
+      "journal":  "Nonlinear Dynamics",
+      "year":     2014,
+      "link":     "10.1007/s11071-014-1781-7",
+      "topic":    "Ecoepidemiological mathematical models",
+      "type":     "Journal Papers",
+      "_date":    "14.11.14",
+      "abstract": [
+        ""
+      ]
+    },
+    {
+      "title":    "Modeling the endophytic fungus Epicoccum nigrum action to fight the “olive knot” disease caused by Pseudomonas savastanoi pv. savastanoi (Psv) bacteria in Olea europea trees",
+      "authors":  "P. Baptista, C.Berardo, I. M. Bulai, T. Gomes, E. Venturino",
+      "journal":  "BIOMAT 2017",
+      "year":     2017,
+      "link":     "",
+      "topic":    "Ecoepidemiological mathematical models",
+      "type":     "Book Chapters",
+      "_date":    "17.11.01",
+      "abstract": [
+        ""
+      ]
+    },
+    {
+      "title":    "A mathematical model for a diseased orange tree",
+      "authors":  "I. M. Bulai, A.C. Esteves E. Venturino",
+      "journal":  "Proceedings of the 17th International Conference on Computational and Mathematical Methods in Science and Engineering",
+      "year":     2017,
+      "link":     "http://cmmse.usal.es/cmmse2018/sites/default/files/volumes/Proceedings_CMMSE_2017_vol_1_6.pdf",
+      "topic":    "Ecoepidemiological mathematical models",
+      "type":     "Proceedings",
+      "_date":    "16.09.14",
+      "abstract": [
+        ""
+      ]
+    },
+    {
+      "title":    "Competition between algae and fungi in a lake: a mathematical model",
+      "authors":  "I. M. Bulai, E. Venturino",
+      "journal":  "Proceedings of the 16th International Conference on Computational and Mathematical Methods in Science and Engineering",
+      "year":     2016,
+      "link":     "http://cmmse.usal.es/cmmse2018/sites/default/files/volumes/Proceedings_CMMSE_2016_final.pdf",
+      "topic":    "Wastewater bioremediation",
+      "type":     "Proceedings",
+      "_date":    "16.05.19",
+      "abstract": [
+        ""
+      ]
+    },
+    {
+      "title":    "Wastewater bioremediation using white rot fungi: validation of a dynamical system",
+      "authors":  "I. M. Bulai, F. Spina, G. C. Varese, E. Venturino",
+      "journal":  "Biomath Communications, Vol 3, No 1",
+      "year":     2016,
+      "link":     "http://www.biomathforum.org/biomath/index.php/conference/article/view/612",
+      "topic":    "Wastewater bioremediation",
+      "type":     "Proceedings",
+      "_date":    "16.08.01",
+      "abstract": [
+        ""
+      ]
+    },
+    {
+      "title":    "A mathematical model for the biodegradation of organic pollutants in a lake",
+      "authors":  "I. M. Bulai, E. Venturino",
+      "journal":  "Proceedings of the 15th International Conference on Computational and Mathematical Methods in Science and Engineering",
+      "year":     2015,
+      "link":     "http://cmmse.usal.es/cmmse2018/sites/default/files/volumes/Proceedings_CMMSE_2015.pdf",
+      "topic":    "Wastewater bioremediation",
+      "type":     "Proceedings",
+      "_date":    "15.07.01",
+      "abstract": [
+        ""
+      ]
+    },
+      {
+      "title":    "Do niches help in controlling disease spread in ecoepidemic models?",
+      "authors":  "I. M. Bulai, B. Chialva, D. Duma, E. Venturino",
+      "journal":  "Proceedings of the 2013 International Conference on Computational and Mathematical Methods in Science and Engineering",
+      "year":     2013,
+      "link":     "http://cmmse.usal.es/cmmse2018/sites/default/files/volumes/volume1-cmmse-20013.pdf",
+      "topic":    "Ecoepidemiological mathematical models",
+      "type":     "Proceedings",
+      "_date":    "13.01.01",
+      "abstract": [
+        ""
+      ]
+    },
+    {
+      "title":    "Stopping waves: Geometric analysis of coupled bursters in an asymmetric excitation field",
+      "authors":  "I. M. Bulai, M. G. Pedersen",
+    "journal":  "Submitted",
+      "year":     2017,
+      "link":     "",
+      "topic":    "Spatiotemporal and Stochastic models for endocrine cells",
+      "type":     "Submitted Preprints",
+      "_date":    "16.01.01",
+      "abstract": [
+        ""
+      ]
+    },
+  
+    {
+      "title":    "Waste-water bioremediation using white rot fungi: validation of a dynamical system with real data obtained in laboratory",
+      "authors":  "I. M. Bulai, F. Spina, G. C. Varese, E. Venturino",
+      "journal":  "To appear in Mathematical Methods in the Applied Sciences",
+      "year":     2018,
+      "link":     "",
+      "topic":    "Wastewater bioremediation",
+      "type":     "Journal Papers",
+      "_date":    "18.02.01",
+      "abstract": [
+        ""
+      ]
+    },
+    {
+      "title":    "Modelling the effect of human population on the fish survival in water bodies",
+      "authors":  "P. K. Tiwari, I. M. Bulai, E. Venturino, A. K. Misra",
+      "journal":  "Submitted",
+      "year":     2016,
+      "link":     "",
+      "topic":    "Wastewater bioremediation",
+      "type":     "Submitted Preprints",
+      "_date":    "17.10.01",
+      "abstract": [
+        ""
+      ]
+    }
+  ],
+  "news": [
+    {
+      "title":    "Research assistant on “Spatiotemporal and Stochastic Simulation Studies of Calcium Channels Effects in Endocrine Cells”",
+      "subtitle": "Università degli Studi di Padova, 15/03/2017-present",
+      "type":     "Position",
+      "_date":    "17.03.15"
+    },
+    {
+      "title":    "Ph.D. in Mathematics",
+      "subtitle": "Università degli Studi di Torino, 01/01/2014-31/12/2016",
+      "text":     [""],
+      "type":     "Position",
+      "_date":    "14.01.01"
+    },
+    {
+      "title":    "Teaching assistant for the “Mathematical Analysis I” course",
+      "subtitle": "Politecnico di Torino, 2016/2017",
+      "type":     "Position",
+      "_date":    "16.09.31"
+    },
+    {
+      "title":    "Teaching assistant “articolo 76” for the ”Mathematics” course",
+      "subtitle": "Università degli Studi di Torino, 2015/2016",
+      "type":     "Role",
+      "_date":    "15.10.01"
+    },
+        {
+      "title":    "Co-organizer",
+      "subtitle": "CAMo: from molecules to modelling, 2017, Torino",
+      "link":     "",
+      "type":     "Event",
+      "_date":    "15.09.01"
+    },
+            {
+      "title":    "Co-organizer",
+      "subtitle": "Franco-Italian Mathematical Ecology Days, 2016, Torino",
+      "link":     "",
+      "type":     "Event",
+      "_date":    "16.11.01"
+    },
+                {
+      "title":    "Member",
+      "subtitle": "Society for Mathematical Biology, 2016-present",
+      "link":     "",
+      "type":     "Event",
+      "_date":    "16.01.01"
+    },
+                    {
+      "title":    "Member",
+      "subtitle": "Gruppo Nazionale per il Calcolo Scientifico, GNCS-INDAM, 2016-present",
+      "link":     "",
+      "type":     "Event",
+      "_date":    "16.01.01"
+    },
+                        {
+      "title":    "Member",
+      "subtitle": "Member of Gruppo Nazionale per l’Analisi Matematica, la Probabilità e le loro Applicazioni, GNAMPA-INDAM, 2013-2015",
+      "link":     "",
+      "type":     "Event",
+      "_date":    "13.01.01"
+    },
+                        {
+      "title":    "INDAM grant",
+      "subtitle": "Finanziamento GNCS Giovani Ricercatori 2016",
+      "link":     "",
+      "type":     "Prize",
+      "_date":    "16.10.01"
+    },  
+                            {
+      "title":    "Best Student Presentation Award",
+      "subtitle": " International Conference on Mathematical Methods and Models in Biosciences and the School for Young Scientists, 19–25 June 2016, Blagoevgrad–BU",
+      "link":     "",
+      "type":     "Prize",
+      "_date":    "16.06.19"
+    },
+                                {
+      "title":    "Erasmus Traineeship grant",
+      "subtitle": " Erasmus Traineeship grant, 29 July–30 September 2016, University of Osnabrueck, Germany",
+      "link":     "",
+      "type":     "Prize",
+      "_date":    "16.07.29"
+    },
+                                    {
+      "title":    "Visiting position",
+      "subtitle": " Institute of Environmental Systems Research, Osnabreuck, January 2017",
+      "link":     "",
+      "type":     "Event",
+      "_date":    "17.01.01"
+    },
+                                        {
+      "title":    "Visiting position",
+      "subtitle": "Institute of Environmental Systems Research, Osnabrueck, August-September 2016",
+      "link":     "",
+      "type":     "Event",
+      "_date":    "16.08.01"
+    },
+                                           {
+      "title":    "Visiting position",
+      "subtitle": "Istituto Superiore Mario Boella (LACE), Torino, September 2014-March 2015",
+      "link":     "",
+      "type":     "Event",
+      "_date":    "14.09.01"
+    },
+                                               {
+      "title":    "Visiting position",
+      "subtitle": "Numerical Harmonic Analysis Group (NuHAG), Vienna, February-March 2014",
+      "link":     "",
+      "type":     "Event",
+      "_date":    "14.02.01"
+    },
+                                                  {
+      "title":    "Contributed talk",
+      "subtitle": "DSABNS, Évora – PT, January-February 2017",
+      "link":     "",
+      "type":     "Event",
+      "_date":    "17.02.01"
+    }, 
+                                                      {
+      "title":    "Contributed talk",
+      "subtitle": "2nd Franco-Italian Mathematical Ecology Days, Torino– IT, May 2017",
+      "link":     "",
+      "type":     "Event",
+      "_date":    "17.05.01"
+    }, 
+                                                          {
+      "title":    "Contributed talk",
+      "subtitle": "1st Franco-Italian Mathematical Ecology Days, Torino– IT, November 2016",
+      "link":     "",
+      "type":     "Event",
+      "_date":    "16.11.01"
+    }, 
+                                                              {
+      "title":    "Contributed talk",
+      "subtitle": "CMMSE 2016, Rota, Cadiz – ES, July 2016",
+      "link":     "",
+      "type":     "Event",
+      "_date":    "16.07.01"
+    }, 
+                                                                  {
+      "title":    "Contributed talk",
+      "subtitle": "BIOMATH2016, Blagoevgrad–BU June 2016",
+      "link":     "",
+      "type":     "Event",
+      "_date":    "16.06.01"
+    }, 
+                                                                      {
+      "title":    "Contributed talk",
+      "subtitle": "Seminari dei dottorandi, Torino – IT, March 2016",
+      "link":     "",
+      "type":     "Event",
+      "_date":    "16.03.01"
+    }, 
+                                                                          {
+      "title":    "Contributed talk",
+      "subtitle": "Welcome home, Torino – IT, December 2015",
+      "link":     "",
+      "type":     "Event",
+      "_date":    "15.12.01"
+    }, 
+                                                                              {
+      "title":    "Contributed talk",
+      "subtitle": "ICNAAM2015, Rhodes– GR, September 2015",
+      "link":     "",
+      "type":     "Event",
+      "_date":    "15.09.01"
+    }, 
+                                                                                  {
+      "title":    "Contributed talk",
+      "subtitle": "CMMSE2015, Rota, Cadiz – ES, July 2015",
+      "link":     "",
+      "type":     "Event",
+      "_date":    "15.06.01"
+    }, 
+                                                                                      {
+      "title":    "Contributed talk",
+      "subtitle": "Seminari dei dottorandi, Torino – IT, November 2014",
+      "link":     "",
+      "type":     "Event",
+      "_date":    "14.11.01"
+    }, 
+                                                                                      {
+      "title":    "Summer school",
+      "subtitle": "Physics Applications in Biology, San Paolo–BR, 11-29 January, 2016",
+      "link":     "",
+      "type":     "Event",
+      "_date":    "16.01.01"
+    }, 
+                                                                                          {
+      "title":    "Summer school",
+      "subtitle": "V Southern-Summer School on Mathematical Biology, San Paolo–BR, 4–10 January, 2016",
+      "link":     "",
+      "type":     "Event",
+      "_date":    "16.01.01"
+    }, 
+                                                                                              {
+      "title":    "Summer school",
+      "subtitle": "Computational Harmonic Analysis - with Applications to Signal and Image Processing , Marsiglia – FR, October 2014",
+      "link":     "",
+      "type":     "Event",
+      "_date":    "14.10.01"
+    }
+  ],
+    "teaching": [
+    {
+      "title": "Courses",
+      "text": [
+        "<ul><li>2017/18. <a href=\"http://calvino.polito.it/~nicola/Didattica1.htm\" target=\"_blank\"><i>Analysis I.</i></a> Teaching assistant, Bachelor in Ingegneering, Politecnico di Torino.</li><li>2016/17. <a target=\"_blank\"><i>Mathematics.</i></a> Teaching assistant (articolo 76), Bachelor Course, Department of Agricultural, Forest and Food Sciences, Università degli Studi di Torino.</li></ul>"
+      ]
+    }
+    ]
+}
+
