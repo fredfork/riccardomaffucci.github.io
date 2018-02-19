@@ -9,30 +9,30 @@
   "bio": "Work in Progress",
   "topics": [
     {
-      "title":    "Spatiotemporal and Stochastic models for endocrine cells",
+      "title":    "Analytic number theory",
       "abstract": ""
     },
     {
-      "title":    "Ecoepidemiological mathematical models",
+      "title":    "Gaussian processes",
       "abstract": ""
     },
     {
-      "title":    "Wastewater bioremediation",
+      "title":    "Kac-Rice formulas",
       "abstract": ""
     },
     {
-      "title":    "Numerical analysis",
+      "title":    "lattice points on spheres",
       "abstract": ""
     }
   ],
   "types": ["Journal Papers", "Proceedings", "Book Chapters", "Submitted Preprints"],
   "publications": [
     {
-      "title":    "Modelling the direct and indirect effects of pollutants on the survival of fish in water bodies",
-      "authors":  "P. K. Tiwari, I. M. Bulai, A. K. Misra and E. Venturino",
-      "journal":  "Journal of Biological Systems",
-      "year":     2017,
-      "link":     "10.1142/S0218339017500243",
+      "title":    "Nodal intersections of random eigenfunctions on the 2-dimensional torus",
+      "authors":  "R. W. Maffucci",
+      "journal":  "Monatshefte für Mathematik",
+      "year":     2016,
+      "link":     "10.1007/s00605-016-1001-2",
       "topic":    "Wastewater bioremediation",
       "type":     "Journal Papers",
       "_date":    "17.09.26",
@@ -41,9 +41,9 @@
       ]
     },
     {
-      "title":    "Shape effects on herd behaviour in ecological interacting population models",
-      "authors":  "I. M. Bulai, E. Venturino",
-      "journal":  "Mathematics and Computers in Simulation",
+      "title":    "Nodal intersections for random waves against a segment on the 3-dimensional torus",
+      "authors":  "R. W. Maffucci",
+      "journal":  "Journal of Functional Analysis",
       "year":     2017,
       "link":     "10.1016/j.matcom.2017.04.009",
       "topic":    "Ecoepidemiological mathematical models",
@@ -54,9 +54,9 @@
       ]
     },
     {
-      "title":    "Two mathematical models for dissolved oxygen in a lake--CMMSE-16",
-      "authors":  "I. M. Bulai, E. Venturino",
-      "journal":  "Journal of Mathematical Chemistry",
+      "title":    "Random waves on T^3: nodal area variance and lattice point correlations",
+      "authors":  "J. Benatar, R. W. Maffucci",
+      "journal":  "to appear in International Mathematics Research Notices",
       "year":     2017,
       "link":     "10.1007/s10910-016-0726-4",
       "topic":    "Wastewater bioremediation",
